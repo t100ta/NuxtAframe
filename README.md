@@ -1,4 +1,4 @@
-# va-frame
+# a-frame x Nuxt.ts
 
 > A-frame Trial
 
